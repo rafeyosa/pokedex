@@ -24,7 +24,7 @@ export default function SideNav(props) {
     <nav className={showSideMenu ? "open" : ""}>
       <div className={"header " + (showSideMenu ? "open" : "")}>
         <button className="open-nav-button" onClick={handleCloseMenu}>
-          <i class="fa-solid fa-arrow-left-long"></i>
+          <i className="fa-solid fa-arrow-left-long" />
         </button>
         <h1 className="text-gradient">Pokedex</h1>
       </div>
