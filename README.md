@@ -12,5 +12,5 @@ A Pokedex web application built using React. This app allows users to search, vi
 - [FontAwesome CDN](https://cdnjs.com/libraries/font-awesome)
 - [FontAwesome Icons](https://www.fontawesome.com)
 - [FantaCSS](https://www.fantacss.smoljames.com)
-- [Vite](https://v3.vitejs.dev/guide)
+- [Vite](https://vite.dev/guide)
 - [Poke API](https://pokeapi.co)
